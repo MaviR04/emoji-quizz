@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@theme {
+    --font-Inter:"inter";
+    --font-poppins:"Poppins"
+}
