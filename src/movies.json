@@ -4,7 +4,7 @@
     { "name": "Top Gun", "emojis": "🔝🔫" },
     { "name": "Moana", "emojis": "🥥🌴🌊" },
     { "name": "The Notebook", "emojis": "📓👩‍❤‍👨" },
-    { "name": "One Day", "emojis": "⿡🗓" },
+    { "name": "", "emojis": "⿡🗓" },
     { "name": "La La Land", "emojis": "💃🏼🎵🏝" },
     { "name": "The Fault in Our Stars", "emojis": "❌⭐" },
     { "name": "It Ends with Us", "emojis": "💐💔🔚" },
@@ -18,6 +18,12 @@
     { "name": "Companion", "emojis": "🐾🤖💔" },
     { "name": "The Gray Man", "emojis": "🕵‍♂🔫💣🖤" },
     { "name": "Uncharted", "emojis": "🏴‍☠🗺💎⚔" },
-    { "name": "Avatar", "emojis": "🌍👽💙🌿✨" }
+    { "name": "Avatar", "emojis": "🌍👽💙🌿✨" },
+    {"name":"Scooby Doo","emojis":"🐕🔎🚐"},
+    {"name":"Miraculous Ladybug","emojis":"🐞🐱🗼"},
+    {"name":"Train to busan","emojis":"🚊🧟🏃‍♂"},
+    {"name":"IT","emojis":"🤡🎈🔪"},
+    {"name":"Human Centipede","emojis":"👱🐛"}
+    
   ]
   
